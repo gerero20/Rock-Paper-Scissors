@@ -1,0 +1,1 @@
+This is a project in JavaScript for creating a game of Rock-Paper-Scissors. This will be referenced and used later in the curriculum.
